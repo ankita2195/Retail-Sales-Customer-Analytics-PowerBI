@@ -1,4 +1,4 @@
-# 📊 Retail Customer Analytics & Retention Analysis
+# 📊 Retail Growth & Retention Analysis: Uncovering Customer Inactivity and Revenue Opportunities | Python & Power BI
 
 ---
 
@@ -78,7 +78,7 @@ According to the analysis:
 
 ---
 
-### Limitaions
+### Limitations
 
 - Partial data for 2011 (starting mid-year) and 2015 (ending early) may distort yearly trends
 - No explicit churn definition, inactivity inferred from response data
